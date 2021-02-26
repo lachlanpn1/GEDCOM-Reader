@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GEDCOMLibrary/1.03": {
+        "runtime": {
+          "GEDCOMLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GEDCOMLibrary/1.03": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

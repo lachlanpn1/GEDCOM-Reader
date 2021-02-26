@@ -1,0 +1,9 @@
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\bin\Debug\netcoreapp3.1\GEDCOMLibrary.deps.json
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\bin\Debug\netcoreapp3.1\GEDCOMLibrary.dll
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\bin\Debug\netcoreapp3.1\GEDCOMLibrary.pdb
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\obj\Debug\netcoreapp3.1\GEDCOMLibrary.csprojAssemblyReference.cache
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\obj\Debug\netcoreapp3.1\GEDCOMLibrary.AssemblyInfoInputs.cache
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\obj\Debug\netcoreapp3.1\GEDCOMLibrary.AssemblyInfo.cs
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\obj\Debug\netcoreapp3.1\GEDCOMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\obj\Debug\netcoreapp3.1\GEDCOMLibrary.dll
+C:\Users\lachl\Desktop\C#8\GEDCOM\GEDCOMLibrary\obj\Debug\netcoreapp3.1\GEDCOMLibrary.pdb
